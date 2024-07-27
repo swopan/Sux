@@ -28,7 +28,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6367302898"))
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = "mongodb+srv://sunitverma080:lwYnQJB7WLC50xho@lodubot1.5w14taf.mongodb.net/?retryWrites=true&w=majority&appName=lodubot1"
+DB_URI = "mongodb+srv://sunitverma080:HHLImVG2JPZnerVp@mightybot.hoc7sbn.mongodb.net/?retryWrites=true&w=majority&appName=MIGHTYBOT"
 DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "inshorturl.com")

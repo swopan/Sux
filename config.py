@@ -22,7 +22,7 @@ API_HASH = os.environ.get("API_HASH", "25c013f901474cffcad6a9d03e3a06bb")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002137018294"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "6367302898"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6885577739"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
@@ -39,7 +39,7 @@ TUT_VID = os.environ.get("TUT_VID","gojfsi/2")
 
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002228288557"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002431900364"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "100"))
 
